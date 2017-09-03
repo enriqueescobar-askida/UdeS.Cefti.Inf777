@@ -1,3 +1,5 @@
-# Week02
-* Analyse et planification stratégique : diagnostic de l’existant, objectifs, publics cibles, sites concurrents.
-* Stratégies de contenus pour le Web et architecture de l’information.
+# Week12
+* Outils relationnels : implantation, utilisation et bonne pratiques
+  * Formulaires Web
+  * Blogues corporatifs
+  * Forum de discussion

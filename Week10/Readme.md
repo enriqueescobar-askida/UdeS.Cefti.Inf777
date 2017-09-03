@@ -1,3 +1,3 @@
-# Week02
-* Analyse et planification stratégique : diagnostic de l’existant, objectifs, publics cibles, sites concurrents.
-* Stratégies de contenus pour le Web et architecture de l’information.
+# Week10
+* Systèmes de gestion de contenus
+* Langages et technologies : JavaScript

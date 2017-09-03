@@ -1,3 +1,3 @@
-# Week02
-* Analyse et planification stratégique : diagnostic de l’existant, objectifs, publics cibles, sites concurrents.
-* Stratégies de contenus pour le Web et architecture de l’information.
+# Week11
+* Applications composites (Mashups et API ) : implantation, utilisation et bonnes pratiques
+* Langages et technologies : Ajax
