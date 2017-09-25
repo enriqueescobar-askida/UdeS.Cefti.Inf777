@@ -37,3 +37,14 @@ _Google Analytics, Google Maps, API/mashups divers_
 
 ## Présentation
 Chaque équipe devra faire une présentation de son projet lors de la séance 14 (11 décembre). Présentation Powerpoint de 5-10 acétates illustrant les grandes lignes de votre rapport de production.
+
+## Equipe
+Destin Mortys
+madmortys@gmail.com
+anges.mortys.qc.ca@gmail.com
+
+Amine Eldrissi
+elidrissiamine@gmail.com
+
+Enrique Escobar
+escobarebio@gmail.com
