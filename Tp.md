@@ -40,13 +40,16 @@ Chaque équipe devra faire une présentation de son projet lors de la séance 14
 
 ## Equipe
 Destin Mortys
+438-985-7200
 madmortys@gmail.com
 anges.mortys.qc.ca@gmail.com
 
 Amine Eldrissi
+
 elidrissiamine@gmail.com
 
 Enrique Escobar
+514-690-8398
 escobarebio@gmail.com
 
 ## Google Drive Folder
