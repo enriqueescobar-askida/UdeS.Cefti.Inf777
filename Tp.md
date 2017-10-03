@@ -42,7 +42,6 @@ Chaque équipe devra faire une présentation de son projet lors de la séance 14
 Destin Mortys
 438-985-7200
 madmortys@gmail.com
-anges.mortys.qc.ca@gmail.com
 
 Amine Eldrissi
 514-824-9076
