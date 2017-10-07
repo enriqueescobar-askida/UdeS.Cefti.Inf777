@@ -39,23 +39,31 @@ _Google Analytics, Google Maps, API/mashups divers_
 Chaque équipe devra faire une présentation de son projet lors de la séance 14 (11 décembre). Présentation Powerpoint de 5-10 acétates illustrant les grandes lignes de votre rapport de production.
 
 ## Equipe
-Destin Mortys
-438-985-7200
-madmortys@gmail.com
 
-Amine Eldrissi
-514-824-9076
-elidrissiamine@gmail.com
 
-Enrique Escobar
-514-690-8398
-escobarebio@gmail.com
+Personne | Tel | Gmail
+---------|----------|---------
+ Enrique Escobar | 514-690-8398 | escobarebio@gmail.com
+ Amine Eldrissi | 514-824-9076 | elidrissiamine@gmail.com
+ Destin Mortys | 438-985-7200 | madmortys@gmail.com
+
+## Skype
+
+https://join.skype.com/QfnZCpY3pGrs
 
 ## Google Drive Folder
+
 Inf777
+
 https://drive.google.com/open?id=0B_LGgXL2Bn_vbmxqd29Fbmlrd0k
 
 ## Google Drive File
+
 Tp1.gdoc
+
 https://drive.google.com/open?id=1KvjNwDR3qtZn6XOsSPrjUKpskz5A8I2rNuLtEaeJw4A
 
+
+TP1_INF777_Appications Internet.docx
+
+https://drive.google.com/open?id=1sMiQypRkm5xwySL-u3mdjqi8a393GU78i5wVKw0fiPU
