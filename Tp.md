@@ -40,7 +40,6 @@ Chaque équipe devra faire une présentation de son projet lors de la séance 14
 
 ## Equipe
 
-
 Personne | Tel | Gmail
 ---------|----------|---------
  Enrique Escobar | 514-690-8398 | escobarebio@gmail.com
