@@ -62,6 +62,10 @@ Tp1.gdoc
 
 https://drive.google.com/open?id=1KvjNwDR3qtZn6XOsSPrjUKpskz5A8I2rNuLtEaeJw4A
 
+Tp1.ppt
+
+https://drive.google.com/open?id=0B_LGgXL2Bn_vcGYxQlBudk5IdUE
+
 
 TP1_INF777_Appications Internet.docx
 
