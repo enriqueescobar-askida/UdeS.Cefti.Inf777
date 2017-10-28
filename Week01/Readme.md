@@ -3,6 +3,11 @@
   * Rich  Commerce,  social  shopping  (Trip  Advisor  +  Facebook),   mashup marchands,  boutiques  éphémères… Surveillance  de  prix    http://ca.camelcamelcamel.com/
   * La  parole  aux  consommateurs (une  nouvelle   réalité  pour  la  communication/marketing)
     *  Site  de  reviews  de  consommateurs:  http://epinions.com
+  * Problèmes généraux de conception
+    * Lisibilité http://web.archive.org/web/20140528141710/http://www.joelrobuchon.co.uk/reservations
+  * L’encadrement d’Internet?
+    * Débats actuels: Distribution en ligne, droits d’auteur, pollupostage http://www.droitsurinternet.ca/
+    * Creative Commons http://creativecommons.org/
 * Processus de développement Web (Waterfall, DCU, Agile)
 
 ## Lecture
