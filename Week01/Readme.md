@@ -8,6 +8,8 @@
   * L’encadrement d’Internet?
     * Débats actuels: Distribution en ligne, droits d’auteur, pollupostage http://www.droitsurinternet.ca/
     * Creative Commons http://creativecommons.org/
+  * Utilisabilité - Définition ISO 9241 https://www.iso.org/obp/ui/fr/#iso:std:iso:9241:-210:ed-1:v1:fr
+  
 * Processus de développement Web (Waterfall, DCU, Agile)
 
 ## Lecture
