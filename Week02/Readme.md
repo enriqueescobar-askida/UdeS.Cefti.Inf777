@@ -1,5 +1,9 @@
 # Week02
 * Analyse et planification stratégique : diagnostic de l’existant, objectifs, publics cibles, sites concurrents.
+  * Cycle developement - phase analyse
+    * Objectifs utilisateurs
+      * Qu’attendront  les  utilisateurs  de  ce  site? Putting  people’s  needs  first  :  http://www.gerrymcgovern.com/new-thinking/putting-people%E2%80%99s-needs-first
+
 * Stratégies de contenus pour le Web et architecture de l’information.
 
 # Links
