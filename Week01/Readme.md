@@ -1,5 +1,7 @@
 # Week01
 * Introduction à Internet : enjeux, organismes, standards
+  * Rich  Commerce,  social  shopping  (Trip  Advisor  +  Facebook),   mashup marchands,  boutiques  éphémères… Surveillance  de  prix    http://ca.camelcamelcamel.com/
+  
 * Processus de développement Web (Waterfall, DCU, Agile)
 
 ## Lecture
