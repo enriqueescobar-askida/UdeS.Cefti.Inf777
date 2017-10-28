@@ -1,7 +1,8 @@
 # Week01
 * Introduction à Internet : enjeux, organismes, standards
   * Rich  Commerce,  social  shopping  (Trip  Advisor  +  Facebook),   mashup marchands,  boutiques  éphémères… Surveillance  de  prix    http://ca.camelcamelcamel.com/
-  
+  * La  parole  aux  consommateurs (une  nouvelle   réalité  pour  la  communication/marketing)
+    *  Site  de  reviews  de  consommateurs:  epinions.com
 * Processus de développement Web (Waterfall, DCU, Agile)
 
 ## Lecture
