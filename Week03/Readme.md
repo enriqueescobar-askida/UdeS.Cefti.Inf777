@@ -5,7 +5,7 @@
       * http://color.adobe.com
       * http://colorschemedesigner.com/
       * www.degraeve.com/color-palette/index.php
-      * www.piv.gouv.qc.ca pour  les   normes  visuelles  des  sites  gouvernementaux
+      * www.piv.gouv.qc.ca pour les normes visuelles des sites gouvernementaux
     * Banques d’images
       * www.gettyimages.ca $
       * www.flickr.com/creativecommons/
